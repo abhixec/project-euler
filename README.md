@@ -1,1 +1,2 @@
-# project-euler
+# project_euler
+Project Euler programs
